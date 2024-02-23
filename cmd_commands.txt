@@ -1,0 +1,9 @@
+Web Development :
+
+npm create vite@latest frontend -- --template react
+
+pip install flask
+pip install Flask-SQLAlchemy
+pip install flask-cors
+
+postman = similar to axios in Express.js
